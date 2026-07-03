@@ -96,13 +96,6 @@ Designed and built a responsive front-end website for a startup business venture
 
 ---
 
-## GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=subhan-bit&show_icons=true&theme=default&hide_border=true&count_private=true" height="150" alt="Subhan's GitHub stats"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhan-bit&layout=compact&hide_border=true&theme=default" height="150" alt="Top languages"/>
-</p>
 
 ---
 
