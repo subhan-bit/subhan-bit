@@ -75,30 +75,6 @@ A Python application for managing restaurant operations including orders, menus,
 
 ---
 
-### [Student Grade Management System — Backend Service](https://github.com/subhan-bit/Student-Grade-Management-Program-CW2)
-Extended a grade management tool into a fully-fledged backend web service. Applies REST principles and Java servlet architecture to expose grade data via API endpoints.
-
-`Java` · `REST API` · `Backend` · `Web services`
-
----
-
-### [Java and PostgreSQL Mini Project](https://github.com/subhan-bit/java-postgresql-mini-project)
-Demonstrates relational database integration using JDBC — handling queries, inserts, and data retrieval programmatically from a PostgreSQL database.
-
-`Java` · `PostgreSQL` · `JDBC` · `SQL`
-
----
-
-### [GrowthHive Agency Website](https://github.com/subhan-bit/GrowthHive-Agency)
-Designed and built a responsive front-end website for a startup business venture, showcasing UI layout, interactive JavaScript components, and mobile-friendly design.
-
-`HTML` · `CSS` · `JavaScript` · `Responsive design`
-
----
-
-
----
-
 ## What I'm building next
 
 - End-to-end ML project: fraud detection model trained and deployed on Streamlit
